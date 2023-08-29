@@ -3,7 +3,6 @@
 The structure:
 
 # Repo folder structure
-
     .             
     ├── hw      
     │   ├── rtl            
