@@ -1,6 +1,6 @@
 # pqc_x_heep
 
-The structure:
+The structure is:
 
 # Repo folder structure
     .             
