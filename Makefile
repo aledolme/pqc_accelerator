@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 
-# Makefile to generates keccak-x-heep files and build the design with fusesoc
+# Makefile to generates keccak-x-heep files and build the design with fusesoc!
 
 MAKE                       = make
 
